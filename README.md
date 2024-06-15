@@ -1,1 +1,3 @@
 # Tweets-Topic-Modeling-with-LDA-and-Interactive-Word-Cloud-Visualization
+
+This project focuses on analyzing tweets from Twitter using topic modeling techniques and interactive visualizations. It employs Latent Dirichlet Allocation (LDA) to discover topics within the tweet data and generates interactive word clouds based on topic-term strengths derived from the model. Users can explore topics and related tweets interactively, similar to tools like Tweet Topic Explorer. The project includes data collection, cleaning, LDA modeling, visualization, and a report showcasing top topics for a selected Twitter handler.
